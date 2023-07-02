@@ -36,5 +36,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "npm": "please-use-yarn",
+    "node": ">=17.x",
+    "yarn": ">=1.22"
   }
 }
